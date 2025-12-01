@@ -12,6 +12,14 @@
 - [X] Аугментация набора данных
 - [X] Загрузка весов по ссылке
 
-Все файлы pdf ipynb pth png txt с лучшего прогона лежат в папке alt_model
+## Все файлы pdf ipynb pth png txt с лучшего прогона лежат в папке alt_model
+
+также по ссылкам можно скачать или запустить в ноутбуке в колабе 2 моих лучших веса
+
+best_model.pth: https://drive.google.com/uc?id=1TbWEVsH8iy_Rb_HTuRsSgyjvXO6LzN9L
+
+best_model_alt.pth: https://drive.google.com/uc?id=1Vi_uEOSUdOg6Rwl16ggzVADMWV3jSYyQ
+
+**ниже показаны графики обучения alt модели**
 
 ![alt text](https://github.com/MPolyakman/CNN-for-tisuse-classification/blob/main/alt_model/training_curve_alt.png)
