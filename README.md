@@ -14,7 +14,11 @@
 
 ## Все файлы pdf ipynb pth png txt с лучшего прогона лежат в папке alt_model
 
+Ноутбук в коллабе
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/MPolyakman/CNN-for-tisuse-classification/blob/main/solution_notebook.ipynb)
+
 также по ссылкам можно скачать или запустить в ноутбуке в колабе 2 моих лучших веса
+
 
 best_model.pth: https://drive.google.com/uc?id=1TbWEVsH8iy_Rb_HTuRsSgyjvXO6LzN9L
 
