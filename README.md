@@ -10,5 +10,8 @@
 - [X] После обучения строятся графики функции потерь и метрик
 - [X] Логирование каждого цикла обучения в новый текстовый файлик и сохранение весов модели
 - [X] Аугментация набора данных
+- [X] Загрузка весов по ссылке
 
-![alt text](https://github.com/MPolyakman/CNN-for-tisuse-classification/blob/main/training_curve%20(1).png)
+Все файлы pdf ipynb pth png txt с лучшего прогона лежат в папке alt_model
+
+![alt text](https://github.com/MPolyakman/CNN-for-tisuse-classification/blob/main/alt_model/training_curve_alt.png)
