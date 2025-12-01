@@ -1,0 +1,133 @@
+learning started: max epochs = 47, patience = 15, Learning rate = 0.0001
+
+
+Epoch 1 - Val Acc: 0.6766 Val_acc_b: 0.6843604180145588
+
+Improvement detected (acc: 0.6766 acc_balanced: 0.6844| Final 0.6766)
+
+Epoch 2 - Val Acc: 0.7437 Val_acc_b: 0.7494090951924681
+
+Improvement detected (acc: 0.7437 acc_balanced: 0.7494| Final 0.7437)
+
+Epoch 3 - Val Acc: 0.7566 Val_acc_b: 0.7619342079616727
+
+Improvement detected (acc: 0.7566 acc_balanced: 0.7619| Final 0.7566)
+
+Epoch 4 - Val Acc: 0.7763 Val_acc_b: 0.7817827783819508
+
+Improvement detected (acc: 0.7763 acc_balanced: 0.7818| Final 0.7763)
+
+Epoch 5 - Val Acc: 0.7939 Val_acc_b: 0.7989451600225128
+
+Improvement detected (acc: 0.7939 acc_balanced: 0.7989| Final 0.7939)
+
+Epoch 6 - Val Acc: 0.8020 Val_acc_b: 0.8023368778984482
+
+Improvement detected (acc: 0.8020 acc_balanced: 0.8023| Final 0.8020)
+
+Epoch 7 - Val Acc: 0.8386 Val_acc_b: 0.8401186803826748
+
+Improvement detected (acc: 0.8386 acc_balanced: 0.8401| Final 0.8386)
+
+Epoch 8 - Val Acc: 0.8488 Val_acc_b: 0.8515343786413531
+
+Improvement detected (acc: 0.8488 acc_balanced: 0.8515| Final 0.8488)
+
+Epoch 9 - Val Acc: 0.8427 Val_acc_b: 0.8489007975315621
+
+Epoch 10 - Val Acc: 0.8237 Val_acc_b: 0.826047050280651
+
+Epoch 11 - Val Acc: 0.8664 Val_acc_b: 0.8655629875804879
+
+Improvement detected (acc: 0.8664 acc_balanced: 0.8656| Final 0.8664)
+
+Epoch 12 - Val Acc: 0.8664 Val_acc_b: 0.8676754146155944
+
+Epoch 13 - Val Acc: 0.9119 Val_acc_b: 0.9118108895937515
+
+Improvement detected (acc: 0.9119 acc_balanced: 0.9118| Final 0.9119)
+
+Epoch 14 - Val Acc: 0.9051 Val_acc_b: 0.9061999020666204
+
+Epoch 15 - Val Acc: 0.8441 Val_acc_b: 0.8451519476520829
+
+Epoch 16 - Val Acc: 0.9003 Val_acc_b: 0.901763563244072
+
+Epoch 17 - Val Acc: 0.9247 Val_acc_b: 0.9261116223242605
+
+Improvement detected (acc: 0.9247 acc_balanced: 0.9261| Final 0.9247)
+
+Epoch 18 - Val Acc: 0.9227 Val_acc_b: 0.9235153076890364
+
+Epoch 19 - Val Acc: 0.9383 Val_acc_b: 0.9397884669109177
+
+Improvement detected (acc: 0.9383 acc_balanced: 0.9398| Final 0.9383)
+
+Epoch 20 - Val Acc: 0.9017 Val_acc_b: 0.9014559311476256
+
+Epoch 21 - Val Acc: 0.9417 Val_acc_b: 0.9426382383738002
+
+Improvement detected (acc: 0.9417 acc_balanced: 0.9426| Final 0.9417)
+
+Epoch 22 - Val Acc: 0.9417 Val_acc_b: 0.9425230826086197
+
+Epoch 23 - Val Acc: 0.9376 Val_acc_b: 0.9393818931288157
+
+Epoch 24 - Val Acc: 0.8990 Val_acc_b: 0.903184623832156
+
+Epoch 25 - Val Acc: 0.9532 Val_acc_b: 0.9542999210011492
+
+Improvement detected (acc: 0.9532 acc_balanced: 0.9543| Final 0.9532)
+
+Epoch 26 - Val Acc: 0.9044 Val_acc_b: 0.9079994350437625
+
+Epoch 27 - Val Acc: 0.9173 Val_acc_b: 0.9194122983851825
+
+Epoch 28 - Val Acc: 0.8936 Val_acc_b: 0.8981642286121715
+
+Epoch 29 - Val Acc: 0.9295 Val_acc_b: 0.9313710266427714
+
+Epoch 30 - Val Acc: 0.9478 Val_acc_b: 0.9496382952785746
+
+Epoch 31 - Val Acc: 0.9424 Val_acc_b: 0.9448545071186957
+
+Epoch 32 - Val Acc: 0.9525 Val_acc_b: 0.9540484834909739
+
+Epoch 33 - Val Acc: 0.9539 Val_acc_b: 0.9555884790073098
+
+Improvement detected (acc: 0.9539 acc_balanced: 0.9556| Final 0.9539)
+
+Epoch 34 - Val Acc: 0.9369 Val_acc_b: 0.9376756938626846
+
+Epoch 35 - Val Acc: 0.9410 Val_acc_b: 0.9416275157871409
+
+Epoch 36 - Val Acc: 0.9451 Val_acc_b: 0.9456161650675523
+
+Epoch 37 - Val Acc: 0.9593 Val_acc_b: 0.9609060987131044
+
+Improvement detected (acc: 0.9593 acc_balanced: 0.9609| Final 0.9593)
+
+Epoch 38 - Val Acc: 0.9451 Val_acc_b: 0.9463764343275312
+
+Epoch 39 - Val Acc: 0.9180 Val_acc_b: 0.9204427704466662
+
+Epoch 40 - Val Acc: 0.9363 Val_acc_b: 0.9379222641002364
+
+Epoch 41 - Val Acc: 0.9085 Val_acc_b: 0.9073982159845116
+
+Epoch 42 - Val Acc: 0.8549 Val_acc_b: 0.858123123083989
+
+Epoch 43 - Val Acc: 0.9573 Val_acc_b: 0.9576008009057421
+
+Epoch 44 - Val Acc: 0.9627 Val_acc_b: 0.9636307598824954
+
+Improvement detected (acc: 0.9627 acc_balanced: 0.9636| Final 0.9627)
+
+Epoch 45 - Val Acc: 0.9519 Val_acc_b: 0.95259427219245
+
+Epoch 46 - Val Acc: 0.9634 Val_acc_b: 0.9640041293461967
+
+Improvement detected (acc: 0.9634 acc_balanced: 0.9640| Final 0.9634)
+
+Epoch 47 - Val Acc: 0.9207 Val_acc_b: 0.9227728526890557
+best result is 0.9633898305084746 best epoch is 46
