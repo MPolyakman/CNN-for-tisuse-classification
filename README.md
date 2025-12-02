@@ -24,7 +24,7 @@ best_model.pth: https://drive.google.com/uc?id=1TbWEVsH8iy_Rb_HTuRsSgyjvXO6LzN9L
 
 best_model_alt.pth: https://drive.google.com/uc?id=1Vi_uEOSUdOg6Rwl16ggzVADMWV3jSYyQ
 
-new_best_model.pth: https://drive.google.com/uc?id=1A2tUgZxnlv29oxSYcityL4QCuSUfGH4b
+new_best_model.pth: https://drive.google.com/uc?id=1A2tUgZxnlv29oxSYcityL4QCuSUfGH4b <- **мои лучшие веса** (0.976 на тестовой выборке)
 
 **ниже показаны графики обучения alt модели**
 
