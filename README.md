@@ -17,12 +17,14 @@
 Ноутбук в коллабе
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MPolyakman/CNN-for-tisuse-classification/blob/main/solution_notebook.ipynb)
 
-также по ссылкам можно скачать или запустить в ноутбуке в колабе 2 моих лучших веса
+также по ссылкам можно скачать или запустить в ноутбуке в колабе мои лучшиe веса
 
 
 best_model.pth: https://drive.google.com/uc?id=1TbWEVsH8iy_Rb_HTuRsSgyjvXO6LzN9L
 
 best_model_alt.pth: https://drive.google.com/uc?id=1Vi_uEOSUdOg6Rwl16ggzVADMWV3jSYyQ
+
+new_best_model.pth: https://drive.google.com/uc?id=1A2tUgZxnlv29oxSYcityL4QCuSUfGH4b
 
 **ниже показаны графики обучения alt модели**
 
